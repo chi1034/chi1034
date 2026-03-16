@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chi1034
 - 👀 I’m interested in learning Ai skills and other interesting packages.
-- 🌱 I’m currently graduated from Ai Software Engineering program.
+- 🌱 I graduated from Ai Software Engineering program.
 - 💞️ I’m looking to collaborate with Great minded developers 💻
 - 📫 How to reach me ... https://twitter.com/millicentiva?t=DP0bjai3GNWY_yUyN1XNlw&s=08
 - https://www.linkedin.com/in/Odii-Chinenye-Gift
